@@ -1,4 +1,4 @@
-# WavRW library
+# WaveRW library
 
 2021/10/2 Akinori Ito
 
