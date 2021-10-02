@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Akinori Ito"
+	],
+	"copyright": "Copyright © 2021, Akinori Ito",
+	"description": "Read and write wav format audio files",
+	"license": "BSD",
+	"name": "waverw"
+}
